@@ -18,12 +18,14 @@ If you face any problem in running this code, you can contact us at {vishaal1611
 ## Citation
 If you find this work useful, please consider citing it as:
 ```
-@article{udandarao2020inference,
-  title={On the Inference of Soft Biometrics from Typing Patterns Collected in a Multi-device Environment},
-  author={Udandarao, Vishaal and Agrawal, Mohit and Kumar, Rajesh and Shah, Rajiv Ratn},
-  journal={arXiv preprint arXiv:2006.09501},
-  year={2020}
+@inproceedings{udandarao2020inference,
+title={On the Inference of Soft Biometrics from Typing Patterns Collected in a Multi-device Environment},
+author={Udandarao, Vishaal and Agrawal, Mohit and Kumar, Rajesh and Shah, Rajiv Ratn},
+year = {2020},
+publisher = {IEEE},
+series = {BigMM '20}
 }
+
 ```
 
 ## License
